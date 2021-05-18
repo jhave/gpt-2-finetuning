@@ -1,0 +1,404 @@
+2019-05-07T09-22-33
+
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+			
+			
+							1.22
+			
+			
+			this is
+			 where it all began. no rest. the beginning was nowhere.
+			 had she wished, she could climb  forward,
+			trace her beginnings in futility, jump 
+			in that pure, shallow pit. that candy
+			pushover has pushed her 
+			beside the wheel, first  her normal
+			drive to the bike shop, back in hours
+			 to the click of the shutter, get the boxed set
+			 her local elegy shop still carries--that she
+			could
+
+
+
+			
+			
+							0.83
+			
+			
+			and she was mad for him
+			and he wasn't very much kind.
+			
+			i didn't know him
+			a long time, when i could,  
+			and i thought, how hard
+			it was on me,
+			
+			and then i met him,
+			and we walked into a park,
+			and he was all alone there,
+			
+			and we made a covenant
+			that we would not speak  
+			of the other
+
+
+
+			
+			
+							0.95
+			
+			
+			 from a young man who was his step-grandson,
+			who had himself a long way to go
+			in those days in terms of schooling.
+			
+			so there was some resentment in us all
+			for those who had to shoulder the cost
+			of any further children,
+			
+			parents, of course, but also, children
+			for whom employment was a matter
+			until there is a need in this field
+			
+			for such as these should have been
+
+
+
+			
+			
+							0.86
+			
+			
+			 The music begins with the desperate singing of a child.
+			 He cries because his parents will not take him away.
+			His mother's life is a shining dress,
+			 a blossom of strength and skin. Blood has dripped
+			 from a pock of white hair. The dress is white because
+			of the time.
+			 The child's cry is his land's cry. He sings because
+			his parents are dead.
+			 He sings because they will not steal his muffin.
+			Not the night,
+
+
+
+			
+			
+							0.95
+			
+			
+			is the
+			word
+			in
+			light
+			enchant
+			your
+			voice
+			over
+			her
+			body
+			in
+			stillness
+			in
+			the
+			body
+			in
+			stillness /          
+
+
+
+			
+			
+							1.04
+			
+			
+			 and I wonder what it means to say personality
+			 in this context, someone who can point at a pebble
+			in a stream, a pebble in a stream,
+			a pebble in a stream,
+			personality which, when spoken,
+			 transcribes an entirely different realm of existence
+			into the appearance of another person
+			who happens to be named P.A.
+			
+			I have no name
+			and
+
+
+
+			
+			
+							0.58
+
+
+
+			
+			
+							0.66
+
+
+
+			
+			
+							0.65
+
+
+
+			
+			
+							0.96
+			
+			
+			 and it's so hard, you think you’ve got a brain here,
+			 You’re so glad to be doing time — again — again …
+			 
+			 
+			Just Lonely
+			Nothing to say again, Jack,
+			Nothing to lose heart over,
+			I’m stuck on your back
+			 
+			 
+			Well, that?
+			I had another vision of place
+			the lights and the music all around,
+			the whole world in motion
+			I couldn’t get up …
+
+
+
+			
+			
+							1.23
+			
+			
+			  the whole coast i saw with my little eyes,
+			   my ears rather not satisfied.  
+			  the rain beat down, and the sea snow-cold,
+			     i could not rest.  
+			   i knew a girl, like a horse  
+			           a very little child
+			   about the same.
+
+
+
+			
+			
+							1.27
+			
+			
+			the sea that we sally were breathing
+			      in water a candle
+			   its self in a tin box
+			the way iles disappeared
+			       her being
+			deep     beneath water
+			 or  hours     vanished     only resurfaces
+			       finally      showing
+			    her     once again   
+
+
+
+			
+			
+							1.07
+			
+			
+			
+			The body has no place to stand
+			
+			Litter, and danger, and dead bodies
+			
+			On the street, and windows scratching
+			
+			And eyes saying nothing.
+			
+			It just flowed, went on and on
+			
+			Into a purgatory of sorts,
+			
+			And the Lord was god, and the angels
+			
+			Laughed at each other, and the hill
+			
+			Was a choir of bells.
+			
+			God was
+
+
+
+			
+			
+							0.95
+			
+			
+			tired of screaming, of being
+			an exclamation. so i ease myself
+			into the pool,
+			
+			my back to the wall,
+			my shoulders churning
+			as if i'd been sitting
+			on a sponge. a shadow,
+			
+			the white of a reflection,
+			showing me--
+			how to put it in words
+			for you.
+			
+			the blue of the sky over junkington,
+			the red that says nancy.
+			two pictures of the furnace.
+
+
+
+			
+			
+							0.52
+
+
+
+			
+			
+							1.05
+			
+			
+			
+			The Sow's Own Where Wounds Went
+			
+			From the horse's calf
+			up the sides of the straw
+			of the grain sack
+			pulling the weight of the horse
+			back into the sheath
+			so it would empty.
+			And then an organ
+			snare the grain
+			thick as a wine jar.
+			
+			And then a long sharp
+			bone, not shiny like a knife,
+			grabbed
+
+
+
+			
+			
+							1.24
+			
+			
+			 The idea of the networked, personalized world we
+			just lived in, a world with flat bathrooms and manic
+			weather, 100-person cities, or what wil be lost with
+			the digital revolution? My guess is there'll be fewer
+			cities and more people because drones and cars and
+			robots eventually will save us and live longer than
+			people. But that won't be true everywhere, of course.
+			Just see the Amazon grocery list. Is it really possible
+			here for prices of vitamins and groceries. Or that
+			dark green dot
+
+
+
+			
+			
+							1.14
+			
+			
+			
+			i could cry for days
+			
+			i could feel the dark inside
+			
+			and call that person in the telephone
+			
+			who came from just one month
+			
+			before i arrived in minnesota
+			
+			 and my new mother was living in sheath city
+			mattress slung low
+			
+			across her chest.
+			    the outside is the interior times
+			 think of it of everything we say the outside is
+			our thought has turned invisible.
+			
+			   
+
+
+
+			
+			
+							0.85
+			
+			
+			i was born with the face of a loon
+			who puffed out in anger  
+			and ran away
+			into the icy countryside
+			of childhood.
+			i look around for the wisest loon
+			and there he is
+			standing, looking down
+			at the empty lawn.
+			
+			i am the yellow loon  
+			the one who comes
+			from far away  
+			in vast fields   
+
+
+
+			
+			
+							1.11
+			
+			
+			 the sea never tries to bring the sea back.
+			
+			as long ago a forest on the plains  
+			called the interior we have only  
+			an edge—a frontier each side of river  
+			 and to live beyond the border the interior
+			 was freed by warriors and reapers who needed
+			 a light source and speakers capable of translating
+			the dry tongue of history into thought,
+			
+			and the forest, thick
+
+
+
+			
+			
+							0.96
+			
+			
+			 
+			                                          if anyone wants him, only god can.
+
+
+
+			
+			
+							1.12
+			
+			
+			                                            for me
+			 the river i should note moving
+			 through dark and light later
+			 it must have opened, that black
+
+
+
+			
+			
+							0.54
+

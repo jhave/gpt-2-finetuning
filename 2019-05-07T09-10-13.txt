@@ -1,0 +1,136 @@
+2019-05-07T09-10-13
+
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+			
+			
+							1.23
+			
+			
+			        the        bones          a         place        of         my          parents             and friends
+
+
+
+			
+			
+							1.16
+			
+			
+			suspect i had missed the whole of her,
+			i was driving, my hands trembling
+			i began to get back in the car
+			and the windows from the fender
+			were left open as if nothing
+			had happened, nothing at all,
+			they were left blank as blank places.
+			i pushed the leather top hatch
+			and opened the skirt
+
+
+
+			
+			
+							1.19
+			
+			
+			
+			 if i were a blind man, this would be an easy task.
+			 or a vertigo balanced and secreted another dimension
+			 without ever becoming the focus of any kind of
+			irony. and only afterwards would i be
+			 foreseeing myself in a mirror. the whole world
+			 stretched like a surface of millgrain, that is printed
+			
+			into a faint sift
+
+
+
+			
+			
+							0.7
+			
+			
+			
+			 and we all know what happens when you don't pay attention.
+			 if you had a lot of money, hire a secretary.
+			 if she worked for me, she'd study me for a year.
+			 if we could just hire her, they'd go away.
+			
+			it's true she studies people for a year.
+			if you hired her, she'd study
+
+
+
+			
+			
+							0.99
+			
+			
+			
+			 The bird was singing, but it's really a sing-along.
+			I prefer this country more.
+			The vast ocean seemed so blue & silver
+			 & it scared me laughing
+			 when I first came ashore.
+			
+			 There was the scent of lemon drops
+			 & horseshoes everywhere.
+			
+			 Swimming in the deepest part of the sea 
+
+
+
+			
+			
+							1.09
+			
+			
+			
+			 It makes sense that art with its own agenda, with its
+			own aims, pursues its own maturity. Perhaps the seeds
+			of certain themes were already planted? It makes
+			sense that art with its own agenda should incorporate
+			such themes. Perhaps the seeds of “message,” “tons
+			of meanings,” “tons of tonnage,” were already planted?
+			It makes
+
+
+
+			
+			
+							1.26
+			
+			
+			i could see in the light
+			in all the tiers not at all
+			 
+			 
+			Poignant afflict any day
+			“un-killable”
+			 
+			malignant delusion
+			the self is a man-made
+			condensation
+			
+			 onto “a-ha-ha-ha”
+			 
+			the outpouring
+			 
+			dissecting
+			…
+			 
+			 
+			Surveillance drones
+
+
+
+			
+			
+							0.51
+

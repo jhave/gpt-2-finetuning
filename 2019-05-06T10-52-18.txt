@@ -1,0 +1,93 @@
+2019-05-06T10-52-18
+
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+			
+			
+							1.11
+			And thought if we
+			just get, what
+			                                     
+			
+			let's give it to them
+			
+			and they can't wait,
+			can't help it falling
+			from the mind of the one
+			who ordered these things
+
+
+
+			
+			
+							0.84
+			to be that and that is
+			
+			not to be not to be not
+			
+			to be to be not
+			
+			to be not to be to be to be
+			to be not not
+			
+			to be
+			to be not to be
+			a woman was on the beach
+			eating shrimp and sardines
+			when she suddenly felt a child
+			coming closer, so close she could see
+			the child's head
+			move in her mother's arms.
+			and so she went
+
+
+
+			
+			
+							0.8
+			   that means
+			                         and
+			for this reason
+			                                             
+			lacking a portrait,
+
+
+
+			
+			
+							0.61
+			 the next day, i woke up, i was not where i should be
+			 i was in my room, i was not where i thought i was
+			
+			i was in my room, where i thought i was
+			i was not where i thought i could be
+			i was where i thought i was
+			
+			the next day, i was where i should be
+			i was not where i thought i was
+			i was in my room, where i thought i was
+			
+			the next day,
+
+
+
+			
+			
+							0.89
+			 “The human brain contains over 500 billion cells,
+			but the smallest of them can fit in a single head.”
+			
+			 -  MIT professor Helga Kübler-Ross’s MIT-developed
+			brain-emergent supercomputer pictured above mimics
+			human brain function
+			 “The synapse, a vital part of the brain, is the place
+			where information is transmitted from one neuron
+			to another. Synapses usually form between axon terminals
+			and dend
+

@@ -1,0 +1,77 @@
+
+ReRites -- A.I. poetry generated on 2019-08-15T11-32-39
+
+Interactive Version: 
+user inputs (>>>) prompt a
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+==================
+
+model_name:run1_May5_2019
+seed:None
+nsamples:1
+batch_size:1
+length:48
+temperature:1
+top_k:40
+
+==================
+
+
+
+>>>
+
+
+>>>   ReRites
+
+			 - ReSeq
+			 ...the process of transforming raw binary data,
+			similar to how you turn images into paintings.
+			
+			video 84
+			hu/watched
+			2014
+			2'51 by Taylor Forde
+
+>>>
+
+
+>>>   ReRites
+
+			
+			In April, the world will turn
+			from cold to wildfire.
+			On May 5, we'll burn all 21
+			Earth's fires...
+			
+			Humidity
+			
+			All life on Earth
+
+>>>
+
+
+>>>   ReRites
+
+			
+			
+			:: Green Green Power
+			 Re:play, 2012, is a six-channel interactive film
+			by Julian Oliver.
+			Satan working as a double-amputee
+
+>>>dflsdf
+
+			
+			
+			 “I did not learn from my mother how to act, but I had
+			learned from my father ...”
+			 the complete cessation of activity during REM sleep
+			along with a consequent relaxation of the nervous
+			system

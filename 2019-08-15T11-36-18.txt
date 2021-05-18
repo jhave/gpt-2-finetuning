@@ -1,0 +1,25 @@
+
+ReRites -- A.I. poetry generated on 2019-08-15T11-36-18
+
+Interactive Version: 
+user inputs (>>>) prompt a
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+==================
+
+model_name:run1_May5_2019
+seed:None
+nsamples:1
+batch_size:1
+length:36
+temperature:1
+top_k:9
+
+==================
+

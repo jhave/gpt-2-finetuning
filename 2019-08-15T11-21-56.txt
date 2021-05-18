@@ -1,0 +1,10 @@
+2019-08-15T11-21-56
+
+Interactive Version: 
+user inputs (>>>) prompt a
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+

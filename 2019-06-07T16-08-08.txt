@@ -1,0 +1,19 @@
+2019-06-07T16-08-08
+
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+			                   still alive, your story is weak,
+			though my voice is low--
+			
+			                 it is only whispers, like a choir,
+			some ancient, subtle laughter
+			
+			                of daughters of ore. they are laughing
+			 at you -- they would rather sing a girl
+

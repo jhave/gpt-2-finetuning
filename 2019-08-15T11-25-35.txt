@@ -1,0 +1,111 @@
+2019-08-15T11-25-35
+
+Interactive Version: 
+user inputs (>>>) prompt a
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+==================
+
+model_name:run1_May5_2019
+seed:None
+nsamples:1
+batch_size:1
+length:48
+temperature:1
+top_k:40
+
+==================
+
+
+
+>>>undulant
+
+			, he can almost always be counted on,  
+			 like a rubber band his face, his mouth, or even the
+			least ring
+			 of resistance he might have to make a run for it.
+			
+			so
+
+>>>obsolescence
+
+			—the need to make it stop.
+			 It might be life or death. But when the dust-covering
+			clouds are confused about your presence,
+			 all I see is a face lost in the sky. And I do not know
+
+>>>dust
+
+			. The
+			fire-after-light
+			is a blackbird's scream.
+			
+			And down there, down in
+			the valley of the sound of
+			to hear you sleep,
+			the bird calls to itself, swinging
+
+>>>open the skt
+
+			ches over the floor  
+			which were in darkness  
+			someplace in iraq
+			where they were surrounded by ice,  
+			and we started out
+			
+			to the sound of jerry-
+
+>>>mandering
+
+			 the rest
+			of myself,
+			unable to give up the war
+			in the name of such submission.
+			
+			i will not surrender.
+			this is the price
+			i'll pay
+			or starve.
+
+>>>mandering
+
+			,
+			gripping,
+			knobbing,
+			stealing,
+			obey and obey.
+			
+			there are some things you do
+			by drips and such,
+			some activities
+
+>>>mandering
+
+			 through the snow
+			as the door opens. the two go in,
+			looking for the dial marked G
+			which indicates a local hospital.  
+			as they enter, the moonlight
+			curls behind them. there
+
+>>>ochre 
+
+			
+			 of white and a brown-eyed green at the same time.
+			the white is meant to remind us
+			we should care about these things.
+			the brown-eyed green
+			speaks for itself.
+
+>>>radiant serenity
+
+			. so he begins,
+			 then what? with the others. she was the general. i
+			know she said
+			                    i would love

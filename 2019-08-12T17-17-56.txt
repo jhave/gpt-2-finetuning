@@ -1,0 +1,29 @@
+2019-08-12T17-17-56
+
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+
+
+
+			 from the ceiling. At the front door, in the pink, flag-colored
+			sofa,
+			a woman's face
+			
+			 Enlarge illustration of the Caf des Passions, luxury
+			street
+			 amplified by a buzzing radio and a dancing girl.
+			
+			 Under the radio is a little girl who listens in vain
+			to the station.
+			 Instead, she listens to the little girl. If the girl
+			goes in, the sound
+			 will drown the little girl out. It happens on
+			the way the radio silence drown
+
+

@@ -1,0 +1,19 @@
+2019-06-07T16-09-39
+
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+			
+			 
+			 Cage is a tool for runtime control of Complex Networks
+			authored by Jerome Trapan.
+			
+			 
+			   Jeremiah Totem blog: Filter-out the noise
+			 http://jtor.botext.com/2012/03/22/bleu-pl-2m-1.js.html#uxp3Cp4i5KeJlFq9q3zzBV_dR_xmXG3Q7tGRx2Z0I7Q0_
+

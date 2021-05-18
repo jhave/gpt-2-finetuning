@@ -1,0 +1,190 @@
+
+ReRites -- A.I. poetry generated on 2019-08-15T11-33-52
+
+Interactive Version: 
+user inputs (>>>) prompt a
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+==================
+
+model_name:run1_May5_2019
+seed:None
+nsamples:1
+batch_size:1
+length:36
+temperature:1
+top_k:9
+
+==================
+
+
+
+>>>ReRites
+
+			
+			
+			Rational
+			me
+			d
+			
+			Reality
+			m
+			
+			Reptilia
+			m
+			
+			Road
+			m
+			
+			s
+			Animism
+			m
+
+>>>stealth
+
+			y, i was
+			not so sure.
+			
+			 i thought he might be the prince of nothing.
+			i thought he might be the prince
+			of nothing, or a mixture
+
+>>>stealth
+
+			y gatsby  
+			who knew the value of restraint.  
+			the man, who had been bred  
+			to be a hardy
+
+>>>stealth
+
+			y,
+			
+			a boy of ten
+			and a ragged child in chains,
+			
+			the child to be tortured
+			and then be released,
+
+>>>stealth
+
+			y, a dagger in the heart
+			
+			the world is out to get you.
+			
+			the world is out to get you.
+			
+			the world is out to get
+
+>>>stealth
+
+			y, he had a face like
+			an archer, but the archer's eye
+			was black and full of stars, he knew
+			which ones and when which kind
+
+>>>empty
+
+			
+			the wind.
+
+>>>empty
+
+			.
+			a woman is walking
+			across a field of flowers
+			and into a house
+			full of lace
+			
+			her shadow
+			a woman
+			in pale linen
+
+>>>empty
+
+			 of my mind,
+			i think that it is a good day
+			 and i am standing in a field of bright flowers
+			with a view of the mountains, 
+
+>>>empty
+
+			
+			
+			and so much
+			
+			to be said about the
+			
+			flesh of the poem.
+			my heart
+			
+			is full
+			
+			though not full
+
+>>>empty
+
+			
+			
+			my body is a cloud 
+			it's all
+			moving and i'm
+			
+			moving
+			
+			and when it's all 
+			there
+
+>>>empty
+
+			
+
+>>>empty
+
+			
+			
+			the one who
+			was
+			is
+			is
+			is
+			is
+			is
+			
+			is
+			is
+			
+			is
+			is
+			is
+			
+			is
+			the
+
+>>>empty
+
+			, in the sky,
+			
+			i was the man who held
+			the world hostage.
+			 in our society today, people are not supposed to have
+			much faith
+
+>>>empty
+
+			 and the sun
+			                   on my back, my hands  
+
+>>>empty
+
+			
+			
+			I have seen the inside of it and
+			 what emerges is a picture of a man and a beast.
+			 This was the interior of a prison,

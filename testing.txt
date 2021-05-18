@@ -1,0 +1,8 @@
+2019-06-07T16-28-32
+
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+

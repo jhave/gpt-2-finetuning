@@ -1,0 +1,40 @@
+2020-04-15T12-46-22
+
+GPT-2 345M model 
+retrained on custom poetry corpus 
+for ReadingRites (2019)
+
+More info: glia.ca/rerites
+
+
+
+		edges
+		not meadows
+		still/
+		dream
+		forest
+		there where there are no
+		points
+		you lie like a leaf
+		 losing moisture to the eucalyptus
+		free of borders
+		home
+		you won't
+		help me place the
+		rainbow
+		tree
+		but not the branches
+		like
+		nailing the monitor 
+		 apple and cloth to wooden palisade
+		so how would you
+		dance
+		i am
+		snow frost
+		in the eucalyptus
+		temperature
+		of the shirt
+		is just cold
+		still freezing
+		you must
+
